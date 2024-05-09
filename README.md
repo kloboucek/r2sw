@@ -6,5 +6,4 @@ Rebel2 is a czech republic very own, community based 3D printer project that was
 
 Here's one ...mine... as I got it from my good friend... it was pretty good trade, two bottles of gin for a 3D printer :-)
 
-![](/r2sw/imgs/r2_inception.jpg?raw=true "Optional Title") 
-
+<img src="imgs/r2_inception.jpg" width="400"> <img src="imgs/r2_inception_2.jpg" width="400">
