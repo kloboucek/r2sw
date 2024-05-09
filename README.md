@@ -31,19 +31,13 @@ MK52 bed clone also on AliExpress and I can't be any more happier with it.
 
 Electronics is 100% [BigTreeTech](https://biqu.equipment/)
 
-    BTT SKR PRO 1.2 MCU
-
-    BTT PI 1.2 
-    
-    BTT EBB36 CAN board
-    
-    BTT U2C board 
-    
-    BTT TFT 3.5" SPI
-    
-    BTT TMC2209 UART drivers
-    
-    BTT microprobe v2 for homing and meshing fun
+   BTT SKR PRO 1.2 MCU
+   BTT PI 1.2 
+   BTT EBB36 CAN board
+   BTT U2C board 
+   BTT TFT 3.5" SPI
+   BTT TMC2209 UART drivers
+   BTT microprobe v2 for homing and meshing fun
 
 I'm running this on 24V obviously and that is with 200W PSU and that might be very close to the edge... thinking about upping the PSU to 350W one, but so far it's been running very well for about 6 months.
 
